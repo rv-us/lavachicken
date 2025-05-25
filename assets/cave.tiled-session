@@ -1,0 +1,76 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.25
+        },
+        "#spritesheet_tiles": {
+            "scaleInEditor": 0.75
+        },
+        "C:/Users/rachi/Projects/Cmpm 120/PlatformImprovement/assets/platformer-level-1.tmx": {
+            "expandedObjectLayers": [
+                4
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 345,
+                "y": 165.75
+            }
+        },
+        "C:/Users/rachi/Projects/Cmpm 120/PlatformImprovement/assets/platformer-level-1.tmx#kenny_tilemap_packed": {
+            "scaleInDock": 1
+        },
+        "level.tmx": {
+            "expandedObjectLayers": [
+                8
+            ],
+            "scale": 0.25,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 3256,
+                "y": 6222
+            }
+        },
+        "level.tmx#skybox_side": {
+            "scaleInDock": 0.33
+        },
+        "level.tmx#spritesheet_tiles": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.25
+        },
+        "spritesheet_tiles.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 0.33
+        }
+    },
+    "last.exportedFilePath": "C:/Users/rachi/Projects/chicken/assets",
+    "last.externalTilesetPath": "C:/Users/rachi/Projects/chicken/assets",
+    "last.imagePath": "C:/Users/rachi/Projects/chicken/assets",
+    "lastUsedTilesetExportFilter": "All Files (*)",
+    "map.height": 100,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "openFiles": [
+    ],
+    "project": "cave.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "C:/Users/rachi/Projects/Cmpm 120/PlatformImprovement/assets/platformer-level-1.tmx",
+        "spritesheet_tiles.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.tileSize": {
+        "height": 128,
+        "width": 128
+    }
+}

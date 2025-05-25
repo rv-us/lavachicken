@@ -1,0 +1,10 @@
+<TextureAtlas imagePath="Custom Edited - Minecraft Customs - Chicken.png">
+    <SubTexture name="stand_frame_one" x="6" y="16" width="15" height="16"/>
+    <SubTexture name="stand_frame_two" x="29" y="16" width="15" height="16"/>
+    <SubTexture name="stand_frame_three" x="51" y="16" width="15" height="16"/>
+    <SubTexture name="walking_frame_one" x="6" y="44" width="15" height="16"/>
+    <SubTexture name="walking_frame_two" x="28" y="44" width="15" height="16"/>
+    <SubTexture name="walking_frame_three" x="51" y="44" width="15" height="16"/>
+    <SubTexture name="hurt_frame_one" x="6" y="75" width="15" height="16"/>
+    <SubTexture name="hurt_frame_two" x="29" y="75" width="15" height="16"/>
+</TextureAtlas>
